@@ -1,0 +1,14 @@
+# Node.js and Vite standard ignores
+
+# Dependency directories
+node_modules/
+
+# Build output
+/dist/
+
+# Environment variables
+.env
+
+# Development files
+*.log
+*.local
